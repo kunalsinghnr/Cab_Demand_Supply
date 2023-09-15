@@ -1,10 +1,11 @@
-Cab Project README
+# Cab Project
+
 Overview
 This repository contains code for the Cab Project, which aims to analyze and visualize the demand and supply data of a cab service. The project's primary goals are as follows:
 
-24-hour Curve of Average Demand and Supply Volume: Visualize the 24-hour curve of average demand and supply volume to identify patterns and trends throughout the day.
+1. 24-hour Curve of Average Demand and Supply Volume: Visualize the 24-hour curve of average demand and supply volume to identify patterns and trends throughout the day.
 
-Undersupplied Hours During a Weekly Period (Monday to Sunday): Identify the hours during the week when the demand for cabs exceeds the available supply.
+2. Undersupplied Hours During a Weekly Period (Monday to Sunday): Identify the hours during the week when the demand for cabs exceeds the available supply.
 
 Data Sources
 The project utilizes two main data sources:
